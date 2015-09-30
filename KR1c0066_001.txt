@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩外傳
-#+DATE: 2015-09-23 09:37:16
+#+DATE: 2015-09-10 22:50:28.585574
+#+PROPERTY: ID KR1c0066
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB01n0031-001韓詩外傳-卷第一.
 <pb:KR1c0066_SBCK_001-1a>¶
 詩外傳卷第一¶
 　　　　　　　　　　韓嬰¶
@@ -270,4 +274,3 @@
 伐召伯所茇此之謂也¶
 詩外傳卷第一¶
 <pb:KR1c0066_SBCK_001-14b>¶
-

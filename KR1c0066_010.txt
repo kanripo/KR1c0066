@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩外傳
-#+DATE: 2015-09-23 09:37:16
+#+DATE: 2015-09-10 22:50:28.958383
+#+PROPERTY: ID KR1c0066
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 10
+#+PROPERTY: FILE SB01n0031-010韓詩外傳-卷第十.
 <pb:KR1c0066_SBCK_010-1a>¶
 詩外傳卷第十¶
 　　　　　　　　　　韓嬰¶
@@ -340,4 +344,3 @@
 詩曰惟此聖人瞻言百里¶
 詩外傳卷第十終¶
 <pb:KR1c0066_SBCK_010-18a>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩外傳
-#+DATE: 2015-09-23 09:37:16
+#+DATE: 2015-09-10 22:50:28.794182
+#+PROPERTY: ID KR1c0066
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 6
+#+PROPERTY: FILE SB01n0031-006韓詩外傳-卷第六.
 <pb:KR1c0066_SBCK_006-1a>¶
 詩外傳卷第六¶
 　　　　　　　　　　韓嬰¶
@@ -338,4 +342,3 @@
 翮在其中矣將皆背上之毛腹下之毳耶詩¶
 曰謀夫孔多是用不集¶
 詩外傳卷第六¶
-

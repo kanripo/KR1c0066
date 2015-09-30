@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩外傳
-#+DATE: 2015-09-23 09:37:16
+#+DATE: 2015-09-10 22:50:28.875549
+#+PROPERTY: ID KR1c0066
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB01n0031-008韓詩外傳-卷第八.
 <pb:KR1c0066_SBCK_008-1a>¶
 詩外傳卷第八¶
 　　　　　　　　　　韓嬰¶
@@ -378,4 +382,3 @@
 而失水則爲螻蟻所制失其輔也故曰不明¶
 爾德時無背無側爾德不明以無陪無卿¶
 詩外傳卷第八¶
-

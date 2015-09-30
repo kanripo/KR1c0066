@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩外傳
-#+DATE: 2015-09-23 09:37:16
+#+DATE: 2015-09-10 22:50:28.712652
+#+PROPERTY: ID KR1c0066
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB01n0031-004韓詩外傳-卷第四.
 <pb:KR1c0066_SBCK_004-1a>¶
 詩外傳卷第四¶
 　　　　　　　　　　韓嬰¶
@@ -317,4 +321,3 @@
 也微其救人之急也婉詩曰豈敢憚行畏不¶
 能趨¶
 詩外傳卷第四¶
-

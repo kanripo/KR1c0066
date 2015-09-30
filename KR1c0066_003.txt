@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩外傳
-#+DATE: 2015-09-23 09:37:16
+#+DATE: 2015-09-10 22:50:28.667942
+#+PROPERTY: ID KR1c0066
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB01n0031-003韓詩外傳-卷第三.
 <pb:KR1c0066_SBCK_003-1a>¶
 詩外傳卷第三¶
 　　　　　　　　　　韓嬰¶
@@ -482,4 +486,3 @@
 憂衣與食也詩曰父母何嘗心之憂矣之子¶
 無裳¶
 詩外傳卷第三¶
-

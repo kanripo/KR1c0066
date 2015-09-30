@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩外傳
-#+DATE: 2015-09-23 09:37:16
+#+DATE: 2015-09-10 22:50:28.916485
+#+PROPERTY: ID KR1c0066
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 9
+#+PROPERTY: FILE SB01n0031-009韓詩外傳-卷第九.
 <pb:KR1c0066_SBCK_009-1a>¶
 詩外傳卷第九¶
 　　　　　　　　　　韓嬰¶
@@ -300,4 +304,3 @@
 疾&KR0015;嗌嗌威儀固陋辭氣鄙俗是以君子賤¶
 之也¶
 詩外傳卷第九¶
-

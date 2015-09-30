@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩外傳
-#+DATE: 2015-09-23 09:37:16
+#+DATE: 2015-09-10 22:50:28.549732
+#+PROPERTY: ID KR1c0066
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB01n0031-000韓詩外傳-序.
 <pb:KR1c0066_SBCK_000-1a>¶
 韓詩外傳序¶
 始余年少讀韓詩外傳疑其爲先¶
@@ -41,4 +45,3 @@
 舒論於上前其人精悍處事分明¶
 仲舒不能難也後其孫商爲博士¶
 孝宣時涿郡韓生其後也¶
-

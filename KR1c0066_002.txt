@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩外傳
-#+DATE: 2015-09-23 09:37:16
+#+DATE: 2015-09-10 22:50:28.624733
+#+PROPERTY: ID KR1c0066
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB01n0031-002韓詩外傳-卷第二.
 <pb:KR1c0066_SBCK_002-1a>¶
 詩外傳卷第二¶
 　　　　　　　　　　韓嬰¶
@@ -390,4 +394,3 @@
 伐柯其則不遠¶
 詩外傳卷第二¶
 <pb:KR1c0066_SBCK_002-20b>¶
-

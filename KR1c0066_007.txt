@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩外傳
-#+DATE: 2015-09-23 09:37:16
+#+DATE: 2015-09-10 22:50:28.833147
+#+PROPERTY: ID KR1c0066
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 7
+#+PROPERTY: FILE SB01n0031-007韓詩外傳-卷第七.
 <pb:KR1c0066_SBCK_007-1a>¶
 詩外傳卷第七¶
 　　　　　　　　　　韓嬰¶
@@ -342,4 +346,3 @@
 也詩曰父兮生我母兮鞠我拊我畜我長我¶
 育我顧我復我出入腹我¶
 詩外傳卷第七¶
-
